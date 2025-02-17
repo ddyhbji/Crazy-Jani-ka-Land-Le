@@ -13,7 +13,7 @@ start_txt = """
  
 ✰ 𝗣ᴀʜʟᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ 𝗥ᴇᴘᴏ 𝗢ᴡɴᴇʀ ᴋᴏ 
 
-✰  @THUNDERDEVS  
+✰  @VIP_RAM_HACKER_PR  
  
 ✰ 𝗥ᴜɴ 24x7 𝗟ᴀɢ 𝗙ʀᴇᴇ 𝗪ɪᴛʜᴏᴜᴛ 𝗦ᴛᴏᴘ
  
@@ -29,14 +29,14 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔ᴅᴅ ᴍᴇ 𝗠ᴀʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/THUNDERDEVS"),
-          InlineKeyboardButton("⍣ ፝֠֩ ‌ ‌ꭘⷪ ‌ ꯭፝֠֩‌ ꯭‌ ‌‌𝚰𝛅꯭𝗍ᴋ꯭ʜᴧ꯭ꝛ", url="https://t.me/CRAZY_OP_02"),
+          InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/VIP_RAM_HACKER_PR"),
+          InlineKeyboardButton("⍣ ፝֠֩ ‌ ‌ꭘⷪ ‌ ꯭፝֠֩‌ ꯭‌ ‌‌𝚰𝛅꯭𝗍ᴋ꯭ʜᴧ꯭ꝛ", url="https://t.me/VIP_RAM_HACKER_PR"),
           ],
                [
-                InlineKeyboardButton("𝗧ᴇᴀᴍ 𝗣ᴜʀᴠɪ 𝗕ᴏᴛs", url=f"https://t.me/PURVI_SUPPORT"),
+                InlineKeyboardButton("𝗝𝗮𝗻𝗶 𝗖𝗵𝗲𝘁𝗶𝗻𝗴", url=f"https://t.me/VIP_RAM_HACKER_PR"),
 ],
 [
-InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/PURVI_MUSIC_BOT"),
+InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/VIP_RAM_HACKER_PR"),
 
         ]]
 
