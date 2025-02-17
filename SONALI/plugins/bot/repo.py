@@ -30,7 +30,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/VIP_RAM_HACKER_PR"),
-          InlineKeyboardButton("⍣ ፝֠֩ ‌ ‌ꭘⷪ ‌ ꯭፝֠֩‌ ꯭‌ ‌‌𝚰𝛅꯭𝗍ᴋ꯭ʜᴧ꯭ꝛ", url="https://t.me/VIP_RAM_HACKER_PR"),
+          InlineKeyboardButton("𐏓𐏓꯭꯭ ⃪꯭꯭꯭꯭꯭🇻꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭ɪ֟፝ᴘ]꯭꯭꯭꯭᭄ ⃪꯭꯭꯭꯭꯭𝗝𝗮꯭꯭꯭꯭꯭𝗻𝗶]꯭꯭꯭꯭᭄𝅃꯭᳚𝆺꯭𝅥𝆺𝅥.🥀", url="https://t.me/VIP_RAM_HACKER_PR"),
           ],
                [
                 InlineKeyboardButton("𝗝𝗮𝗻𝗶 𝗖𝗵𝗲𝘁𝗶𝗻𝗴", url=f"https://t.me/VIP_RAM_HACKER_PR"),
